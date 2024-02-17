@@ -1,8 +1,8 @@
-python
 streamlit
-streamlit-option-menu
 pandas
 numpy
 matplotlib
 matplotlib.pyplot
 seaborn
+streamlit_option_menu
+requests
