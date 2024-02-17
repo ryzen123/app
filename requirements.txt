@@ -1,6 +1,6 @@
 python
 streamlit
-streamlit-option-menu
+pip install streamlit-option-menu
 pandas
 numpy
 matplotlib
